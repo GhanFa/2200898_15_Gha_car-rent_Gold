@@ -1,0 +1,63 @@
+/* Search-car */
+.search-box {
+  max-width: 1047px !important;
+  min-height: 106px !important;
+  padding: 24px !important;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+
+  position: relative;
+  z-index: 900;
+  margin-top: -160px;
+  margin-bottom: 100px;
+}
+.search-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.form-col {
+  min-width: 219px;
+}
+
+.form-label {
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  line-height: 18px !important;
+  color: #3c3c3c !important;
+}
+
+.search-form {
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  line-height: 18px !important;
+  color: #999 !important;
+}
+
+.form-btn {
+  align-self: end;
+  padding-bottom: 6px;
+  display: flex;
+}
+
+.form-btn .search-btn {
+  max-height: 58px !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  line-height: 20px !important;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 8px 12px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  border: none;
+  background-color: #5cb85f;
+  color: #ffffff;
+}
+
+.search-btn:hover {
+  background-color: #2b862e;
+}

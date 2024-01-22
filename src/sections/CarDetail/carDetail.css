@@ -1,0 +1,46 @@
+/* detail */
+.detail-section {
+  max-width: 1065px !important;
+  margin-bottom: 283px !important;
+}
+
+.detail-section .wrapper {
+  padding: 24px !important;
+  border-radius: 8px;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.detail-title,
+.detail-subtitle {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.detail-section ul li {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 175%;
+  color: #8a8a8a;
+}
+
+.car-name {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #000;
+}
+
+.detail-section .category {
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 14px;
+  color: #8a8a8a;
+  margin-bottom: 55px;
+}
+.detail-section .price {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 84px;
+}

@@ -1,0 +1,26 @@
+/* testimony */
+.testimony-section {
+  margin-bottom: 100px;
+}
+.prev-btn,
+.next-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: solid 1px #c4c4c4;
+  background-color: #ffffff;
+  padding: 0;
+}
+.icon {
+  width: 20px !important;
+  height: 20px !important;
+  filter: invert(1) grayscale(100);
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+  background-color: #5cb85f;
+  .icon {
+    filter: none;
+  }
+}

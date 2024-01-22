@@ -1,0 +1,32 @@
+/* service section */
+
+.service-img {
+  max-width: 459px;
+  flex-shrink: 0;
+}
+
+.services-list {
+  list-style-type: none;
+  padding: 0;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.services-list .services-item {
+  display: flex;
+  margin-bottom: 16px;
+  gap: 16px;
+}
+.services-list .services-item i {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  padding: 8px;
+  background-color: #cfd4ed;
+  border-radius: 50%;
+  color: #0d28a6;
+  -webkit-text-stroke: 1px;
+  align-items: center;
+  justify-content: center;
+}

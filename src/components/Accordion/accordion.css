@@ -1,0 +1,28 @@
+.faq-section {
+  margin-bottom: 150px;
+}
+.faq-section h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #000;
+}
+
+.faq-section p {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #000;
+}
+.accordion-item {
+  border: none !important;
+}
+.accordion-header {
+  border-radius: 5px !important;
+  border: 2px solid #d4d4d4;
+}
+.accordion-header button {
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  line-height: 20px;
+  color: #000 !important;
+}
